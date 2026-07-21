@@ -28,6 +28,10 @@
 - update store with trailer video data
 - Embeded the youtube video and make it autoplay and mute
 - Tailwind classes to make Main container look better
+- Build movie List
+- build movie card
+- added TMDB Image CDN URL
+- usePopularmovie & Top Rated & Upcoming 
 
 # Features
 - Login / Sign up
