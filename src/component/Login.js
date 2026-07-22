@@ -9,7 +9,7 @@ import { auth } from "../utils/firebase";
 import { useDispatch } from "react-redux";
 import { addUser } from "../utils/userSlice";
 import Header from "./Header";
-import { BGIMG, PHOTOURL } from "../utils/constants";
+import { BG_IMG, PHOTOURL } from "../utils/constants";
 
 const Login = () => {
   const [isSignInForm, setIsSignInForm] = useState(true);
@@ -99,7 +99,7 @@ const Login = () => {
       <div className="absolute">
         <img
           className="w-screen h-screen object-cover"
-          src={BGIMG}
+          src={BG_IMG}
           alt=""
         />
       </div>

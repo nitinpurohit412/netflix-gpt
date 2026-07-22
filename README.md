@@ -32,6 +32,9 @@
 - build movie card
 - added TMDB Image CDN URL
 - usePopularmovie & Top Rated & Upcoming 
+- GPT Search page
+- GPT Search Bar
+- (BONUS) Multi-language Feature in our app
 
 # Features
 - Login / Sign up
